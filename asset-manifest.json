@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume-gen/static/css/main.b97e055b.chunk.css",
+    "main.js": "/resume-gen/static/js/main.c06154cb.chunk.js",
+    "main.js.map": "/resume-gen/static/js/main.c06154cb.chunk.js.map",
+    "runtime-main.js": "/resume-gen/static/js/runtime-main.fff43d12.js",
+    "runtime-main.js.map": "/resume-gen/static/js/runtime-main.fff43d12.js.map",
+    "static/js/2.dae5155c.chunk.js": "/resume-gen/static/js/2.dae5155c.chunk.js",
+    "static/js/2.dae5155c.chunk.js.map": "/resume-gen/static/js/2.dae5155c.chunk.js.map",
+    "static/js/3.6525c6e6.chunk.js": "/resume-gen/static/js/3.6525c6e6.chunk.js",
+    "static/js/3.6525c6e6.chunk.js.map": "/resume-gen/static/js/3.6525c6e6.chunk.js.map",
+    "index.html": "/resume-gen/index.html",
+    "static/css/main.b97e055b.chunk.css.map": "/resume-gen/static/css/main.b97e055b.chunk.css.map",
+    "static/js/2.dae5155c.chunk.js.LICENSE.txt": "/resume-gen/static/js/2.dae5155c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/resume-gen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fff43d12.js",
+    "static/js/2.dae5155c.chunk.js",
+    "static/css/main.b97e055b.chunk.css",
+    "static/js/main.c06154cb.chunk.js"
+  ]
+}
